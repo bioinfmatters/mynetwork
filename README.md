@@ -73,3 +73,4 @@ for h in hubs:
     print(G.nodes[h]["name"], G.nodes[h]["occupation"], G.nodes[h]["skills"])
 
 ```
+### Feel free to contribute to this list by submitting a pull request or opening an issue with your suggestions. Happy learning!
